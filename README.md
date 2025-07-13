@@ -8,7 +8,7 @@ Explore the dashboards below. Each has its own dedicated README with more detail
 
 ## 📉 Data Jobs Dashboard (V1 - Comprehensive Exploration)
 
-![Data Jobs DB GIF](images\Project1_Dashboard_Page1.gif)
+![Data Jobs DB GIF](images/Project1_Dashboard_Page1.gif)
 
 
 **Key Power BI Skills Utilized:**
@@ -25,9 +25,9 @@ Explore the dashboards below. Each has its own dedicated README with more detail
 
 [➡️ **View Full Project 1 Details (README)**](/Data_Jobs_v1/README.md)
 
-## 📊 Data Jobs Dashboard 2.0 (V2 - Single-Page Focus
+## 📊 Data Jobs Dashboard 2.0 (V2 - Single-Page Focus)
 
-![Data Jobs Dashboard 2.0](images\Project2_Dashboard_Page1.png)
+![Data Jobs Dashboard 2.0](images/Project2_Dashboard_Page1.png)
 
 
 **Key Power BI Skills Utilized (demonstrating progression):**
